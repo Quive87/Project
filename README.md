@@ -38,12 +38,7 @@ This project aims to address several significant challenges prevalent in the hea
 
 ## Technologies Used
 
-- Programming Languages: Python, JavaScript
-- Frameworks: Django, React.js
-- Database: PostgreSQL
-- AI/ML Tools: TensorFlow, scikit-learn
-- Communication: WebSocket for real-time updates
-- APIs: Google Maps API for location services
+- TBD
 
 ## Team Members
 
@@ -52,15 +47,5 @@ This project aims to address several significant challenges prevalent in the hea
 
 ## How to Contribute
 
-We welcome contributions from the community to further enhance our healthcare management system. If you're interested in contributing, please follow these steps:
-
-1. Fork the repository.
-2. Clone the forked repository to your local machine.
-3. Create a new branch for your feature or bug fix.
-4. Make your changes and ensure they adhere to the project's coding standards.
-5. Test your changes thoroughly.
-6. Commit your changes with descriptive commit messages.
-7. Push your changes to your forked repository.
-8. Submit a pull request to the main repository, detailing the changes you've made and the problem they address.
-
-Thank you for your interest in improving healthcare accessibility and efficiency through technology!
+We welcome contributions from the community to further enhance our healthcare management system.
+Thank you for your interest in improving healthcare accessibility and efficiency through technology! We will add contributions soon.
