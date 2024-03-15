@@ -1,4 +1,4 @@
-# Centralized Healthcare Management System
+# Centralized Healthcare
 
 ## Project Overview
 
