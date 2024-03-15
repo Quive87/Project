@@ -1,5 +1,5 @@
 # Centralized Healthcare
-![A project designed for Improved Health care](images(4).jpeg)
+![A project designed for Improved Health care](images (4).jpeg)
 
 ## Project Overview
 
